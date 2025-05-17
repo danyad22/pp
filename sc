@@ -1,3 +1,4 @@
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/danyad22/jndfsnas/refs/heads/main/sup", true))();
 local model = Instance.new("Model", workspace)
 local m = game.Players.LocalPlayer:GetMouse()
 local togglerot = false
